@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **drmc47/drmc47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,17 +33,17 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, C, C++],
    technologies: {
       frontEnd: {
-            js: ["React", "Redux"],
+            js: ["React", "Redux", "React-Native"],
             css: ["bootstrap", "sass", "less"]
                },
       backEnd: {
-           js: ["Node", "Express"]
+           js: ["NodeJS", "Express", "Sequelize"]
       },
       databases: ["MongoDB", "PostgreSQL"],
       
    },
-   currentOccupation: ["open for job opportunities"],
-   challenge: "learning Solidity to combine two of my passions, crypto and programming",
+   currentlyLearning: ["Solidity", "Swift"],
+  
 };
 ```
 </br></br>
