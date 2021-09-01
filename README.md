@@ -37,7 +37,7 @@ const aboutMe = {
             css: ["bootstrap", "sass", "less"]
                },
       backEnd: {
-           js: ["NodeJS", "Express", "Sequelize"]
+           js: ["NodeJS", "Express", "Sequelize", "Mongoose"]
       },
       databases: ["MongoDB", "PostgreSQL"],
       
