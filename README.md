@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 ```javascript
-const aboutMe = {
+let aboutMe = {
    pronouns: "he" | "him",
    askMeAbout:["web dev", "tech", "games", "crypto"],
    code: [Javascript, Typescript, HTML, CSS, C, C++],
