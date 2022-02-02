@@ -30,19 +30,21 @@ Here are some ideas to get you started:
 let aboutMe = {
    pronouns: "he" | "him",
    askMeAbout:["web dev", "tech", "games", "crypto"],
-   code: [Javascript, Typescript, HTML, CSS, C, C++],
+   code: [Javascript, Typescript, Solidity, HTML, CSS, C, C++],
    technologies: {
       frontEnd: {
             js: ["React", "Redux", "React-Native"],
             css: ["bootstrap", "sass", "less"]
                },
       backEnd: {
-           js: ["NodeJS", "Express", "Sequelize", "Mongoose"]
+           js: ["NodeJS", "Express", "Sequelize", "Mongoose", "Docker", "Kubernetes"],
+           solidity: ["Ganache", "Truffle", "Hardhat", "Remix IDE", "web3.js", "ethers"]
       },
       databases: ["MongoDB", "PostgreSQL"],
+      testing: ["Mocha", "Chai", "Waffle"]
       
    },
-   currentlyLearning: ["Solidity", "Swift"],
+   currentlyLearning: ["Swift"],
   
 };
 ```
