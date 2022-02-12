@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielrmojicac@gmail.com)](mailto:danielrmojicac@gmail.com)
 
 
-<p><em>Full Stack Developer from the coding bootcamp <a href="https://www.soyhenry.com/webfullstack">HENRY</a> and Electronics Engineering student</em>🧑🏽‍💻</br>
+<p><em>Full Stack Developer and Electronics Engineering student</em>🧑🏽‍💻</br>
 </p>
 
 
