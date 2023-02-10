@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 let aboutMe = {
    pronouns: "he" | "him",
    askMeAbout:["web dev", "tech", "games", "crypto"],
-   code: [Javascript, Typescript, Solidity, HTML, CSS, C, C++],
+   code: [Javascript, Typescript, Solidity, Python, HTML, CSS, C, C++],
    technologies: {
       frontEnd: {
             js: ["React", "Redux", "React-Native"],
