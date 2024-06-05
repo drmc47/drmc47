@@ -32,7 +32,7 @@ let aboutMe = {
    code: [Javascript, Typescript, Solidity, Python, C++],
    technologies: {
       frontEnd: {
-            js: ["React", "Redux", "React-Native"],
+            js: ["React", "React-Native"],
             css: ["bootstrap", "sass", "less"]
                },
       backEnd: {
